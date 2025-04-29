@@ -66,6 +66,7 @@ body {
 img {
     max-width: 100%;
     max-height: auto;
+    border-radius: 8px;
 }
 
 .cards {
