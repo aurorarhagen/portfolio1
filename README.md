@@ -1,8 +1,9 @@
-# Your project title
+# Portfolio 1
 
 ![image](/images/screenshot-portfolio1.jpg)
 
 This is my portfolio page, showcasing three projects I worked on during my first year at Noroff.  
+[Visit the live site](https://aurorahagen-portfolio1.netlify.app)
 
 ## Description
 My portfolion website, showing the three projects I worked on during my first year at Noroff:
