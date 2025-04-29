@@ -6,7 +6,7 @@ This is my portfolio page, showcasing three projects I worked on during my first
 [Visit the live site](https://aurorahagen-portfolio1.netlify.app)
 
 ## Description
-My portfolion website, showing the three projects I worked on during my first year at Noroff:
+My portfolio website, showing the three projects I worked on during my first year at Noroff:
 - A cross-course project where I created a website called Rainy Days, an e-commerce site where users can buy jackets  
 - A semester project where I created a website called Community Science Museum, a website for a local museum with children and families with children as the focus group  
 - A project exam where I created a website called The Fashion Post, a blog for women interested in fashion and lifestyle content. This website uses WordPress as a headless CMS  
