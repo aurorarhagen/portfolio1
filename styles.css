@@ -24,7 +24,7 @@ h4, a {
 }
 
 a:hover, h4:hover {
-    color: #FFB97B;
+    color: #FF7518;
 }
 
 h5 {
@@ -39,7 +39,7 @@ h6 {
 
 p {
     font-family: "Afacad", sans-serif, 'Times New Roman', Times, serif;
-    font-size: 1.5vh;
+    font-size: 1.7vh;
 }
 /*********************/
 /*   SITE SPECIFICS  */
@@ -82,4 +82,5 @@ img {
     margin-top: 20px;
     padding: 20px;
     margin-right: 10px;
+    border-radius: 8px;
 }
