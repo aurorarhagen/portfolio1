@@ -46,5 +46,4 @@ This is a school project and I am therefore not looking for contributors at the 
 
 ## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
-
+Fonts are from Google Fonts. Icons are from Icons8. 
