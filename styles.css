@@ -3,18 +3,22 @@
 /*************/
 h1 {
     font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 5.5vh;
 }
 
 h2 {
     font-family: "Nunito", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 2vh;
 }
 
 h3 {
     font-family: "Raleway", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 2.5vh;
 }
 
 h4, a {
     font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 1.6vh;
     text-decoration: none;
     color: black;
 }
@@ -25,14 +29,17 @@ a:hover, h4:hover {
 
 h5 {
     font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 2.8vh;
 }
 
 h6 {
     font-family: "Nunito", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 1.8vh;
 }
 
 p {
     font-family: "Afacad", sans-serif, 'Times New Roman', Times, serif;
+    font-size: 1.5vh;
 }
 /*********************/
 /*   SITE SPECIFICS  */
@@ -45,26 +52,34 @@ body {
     padding-top: 40px;
 }
 
+/**********************/
+/* UPPER & BOTTOM TEXT */
+/*********************/
+.upper-text, .bottom-text {
+    margin-left: 10px;
+}
+
+
 /*********************/
 /*   CARDS SECTION   */
 /*********************/
 img {
-    max-width: 400px;
+    max-width: 100%;
     max-height: auto;
 }
 
 .cards {
     display: grid;
-    grid-template-columns: 3;
+    grid-template-columns: repeat(auto-fit, minmax(1fr,1fr));
 }
 
 /**********************/
 /*    SINGLE CARD    */
 /*********************/
-
 .card {
     background-color: #84D2CF;
-    padding: 20px;
+    margin-left: 10px;
     margin-top: 20px;
-    max-width: 500px;
+    padding: 20px;
+    margin-right: 10px;
 }
