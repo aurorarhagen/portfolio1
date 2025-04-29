@@ -1,0 +1,70 @@
+/*************/
+/*   FONTS   */
+/*************/
+h1 {
+    font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: "Nunito", sans-serif, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: "Raleway", sans-serif, 'Times New Roman', Times, serif;
+}
+
+h4, a {
+    font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover, h4:hover {
+    color: #FFB97B;
+}
+
+h5 {
+    font-family: "Cascadia code", sans-serif, 'Times New Roman', Times, serif;
+}
+
+h6 {
+    font-family: "Nunito", sans-serif, 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: "Afacad", sans-serif, 'Times New Roman', Times, serif;
+}
+/*********************/
+/*   SITE SPECIFICS  */
+/*********************/
+body {
+    background-color: #FFB97B;
+    max-width: 1500px;
+    margin: auto;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+/*********************/
+/*   CARDS SECTION   */
+/*********************/
+img {
+    max-width: 400px;
+    max-height: auto;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 3;
+}
+
+/**********************/
+/*    SINGLE CARD    */
+/*********************/
+
+.card {
+    background-color: #84D2CF;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 500px;
+}
